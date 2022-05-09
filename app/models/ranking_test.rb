@@ -1,0 +1,2 @@
+class RankingTest < ApplicationRecord
+end
